@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PwnAdventures3Trainer", "PwnAdventures3Trainer\PwnAdventures3Trainer.csproj", "{7873381D-72B9-4EEF-901E-374827320899}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7873381D-72B9-4EEF-901E-374827320899}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7873381D-72B9-4EEF-901E-374827320899}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7873381D-72B9-4EEF-901E-374827320899}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7873381D-72B9-4EEF-901E-374827320899}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C18A6799-CE2B-40D8-BFA8-FD9769227A3E}
+	EndGlobalSection
+EndGlobal
